@@ -1,0 +1,50 @@
+
+■ 가방
+
+
+▷전자기기
+
+휴대폰 - bag_phone  (무게 : 개당 0.5)
+
+붐박스 - bag_bbox  (무게 : 개당 3)
+
+확성기 - bag_megaphone  (무게 : 개당 1)
+
+
+
+▷음식
+
+생수 - bag_WaterBottle  (무게 : 개당 0.5)
+
+콜라 - bag_cola  (무게 : 개당 0.5)
+
+
+▷기타 생필품
+
+담배 - bag_cigar  (무게 : 개당 0.1)
+
+주사위 - bag_dice  (무게 : 개당 0.1)
+
+
+
+■ 열쇠
+
+
+차키 - Key_Car  (무게 : 개당 0.1)
+
+집키 - Key_House  (무게 : 개당 0.1)
+
+
+
+■ 지갑
+
+
+돈 - wal_money
+
+시민증 - wal_citizenship  (무게 : 개당 0.1)
+
+차량면허증 - wal_carlicense  (무게 : 개당 0.1)
+
+
+
+■ 무기

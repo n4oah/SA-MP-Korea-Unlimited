@@ -1,0 +1,69 @@
+//Global TextDraws: 
+
+
+new Text:TDEditor_TD[5];
+
+TDEditor_TD[0] = TextDrawCreate(632.041320, 47.911151, "00000000");
+TextDrawLetterSize(TDEditor_TD[0], 0.615998, 2.408885);
+TextDrawAlignment(TDEditor_TD[0], 3);
+TextDrawColor(TDEditor_TD[0], 2075752191);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+TextDrawSetOutline(TDEditor_TD[0], 1);
+TextDrawBackgroundColor(TDEditor_TD[0], 255);
+TextDrawFont(TDEditor_TD[0], 3);
+TextDrawSetProportional(TDEditor_TD[0], 1);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+
+TDEditor_TD[1] = TextDrawCreate(516.699035, 3.377797, "hud_icon:hud_heart");
+TextDrawLetterSize(TDEditor_TD[1], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[1], 10.000000, 10.000000);
+TextDrawAlignment(TDEditor_TD[1], 1);
+TextDrawColor(TDEditor_TD[1], -1);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+TextDrawSetOutline(TDEditor_TD[1], 0);
+TextDrawBackgroundColor(TDEditor_TD[1], 255);
+TextDrawFont(TDEditor_TD[1], 4);
+TextDrawSetProportional(TDEditor_TD[1], 0);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+
+TDEditor_TD[2] = TextDrawCreate(516.699035, 15.277820, "hud_icon:hud_heart");
+TextDrawLetterSize(TDEditor_TD[2], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[2], 10.000000, 10.000000);
+TextDrawAlignment(TDEditor_TD[2], 1);
+TextDrawColor(TDEditor_TD[2], -1);
+TextDrawSetShadow(TDEditor_TD[2], 0);
+TextDrawSetOutline(TDEditor_TD[2], 0);
+TextDrawBackgroundColor(TDEditor_TD[2], 255);
+TextDrawFont(TDEditor_TD[2], 4);
+TextDrawSetProportional(TDEditor_TD[2], 0);
+TextDrawSetShadow(TDEditor_TD[2], 0);
+
+TDEditor_TD[3] = TextDrawCreate(516.699035, 26.977865, "hud_icon:hud_heart");
+TextDrawLetterSize(TDEditor_TD[3], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[3], 10.000000, 10.000000);
+TextDrawAlignment(TDEditor_TD[3], 1);
+TextDrawColor(TDEditor_TD[3], -1);
+TextDrawSetShadow(TDEditor_TD[3], 0);
+TextDrawSetOutline(TDEditor_TD[3], 0);
+TextDrawBackgroundColor(TDEditor_TD[3], 255);
+TextDrawFont(TDEditor_TD[3], 4);
+TextDrawSetProportional(TDEditor_TD[3], 0);
+TextDrawSetShadow(TDEditor_TD[3], 0);
+
+TDEditor_TD[4] = TextDrawCreate(516.699035, 38.977779, "hud_icon:hud_heart");
+TextDrawLetterSize(TDEditor_TD[4], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[4], 10.000000, 10.000000);
+TextDrawAlignment(TDEditor_TD[4], 1);
+TextDrawColor(TDEditor_TD[4], -1);
+TextDrawSetShadow(TDEditor_TD[4], 0);
+TextDrawSetOutline(TDEditor_TD[4], 0);
+TextDrawBackgroundColor(TDEditor_TD[4], 255);
+TextDrawFont(TDEditor_TD[4], 4);
+TextDrawSetProportional(TDEditor_TD[4], 0);
+TextDrawSetShadow(TDEditor_TD[4], 0);
+
+
+
+
+//Total textdraws exported: 5 (5 global textdraws / 0 player textdraws) ~ 14/1/2017 ~ 0:38:40
+TDEditor V1.17 BY ADRI1

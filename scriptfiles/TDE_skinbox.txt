@@ -1,0 +1,24 @@
+//Global TextDraws: 
+
+
+new Text:TDEditor_TD[1];
+
+TDEditor_TD[0] = TextDrawCreate(184.866317, 127.058853, "");
+TextDrawLetterSize(TDEditor_TD[0], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[0], 138.000000, 179.000000);
+TextDrawAlignment(TDEditor_TD[0], 1);
+TextDrawColor(TDEditor_TD[0], -1);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+TextDrawSetOutline(TDEditor_TD[0], 0);
+TextDrawBackgroundColor(TDEditor_TD[0], 0);
+TextDrawFont(TDEditor_TD[0], 5);
+TextDrawSetProportional(TDEditor_TD[0], 0);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+TextDrawSetPreviewModel(TDEditor_TD[0], 0);
+TextDrawSetPreviewRot(TDEditor_TD[0], 0.000000, 0.000000, 0.000000, 1.000000);
+
+
+
+
+//Total textdraws exported: 1 (1 global textdraws / 0 player textdraws) ~ 7/1/2017 ~ 22:47:53
+TDEditor V1.17 BY ADRI1

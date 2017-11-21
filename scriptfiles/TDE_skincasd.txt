@@ -1,0 +1,56 @@
+//Global TextDraws: 
+
+
+new Text:TDEditor_TD[4];
+
+TDEditor_TD[0] = TextDrawCreate(528.602966, 106.440582, "phone:comcall");
+TextDrawLetterSize(TDEditor_TD[0], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[0], 103.000000, 234.000000);
+TextDrawAlignment(TDEditor_TD[0], 1);
+TextDrawColor(TDEditor_TD[0], -1);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+TextDrawSetOutline(TDEditor_TD[0], 0);
+TextDrawBackgroundColor(TDEditor_TD[0], 255);
+TextDrawFont(TDEditor_TD[0], 4);
+TextDrawSetProportional(TDEditor_TD[0], 0);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+
+TDEditor_TD[1] = TextDrawCreate(528.602966, 106.440582, "phone:calling");
+TextDrawLetterSize(TDEditor_TD[1], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[1], 103.000000, 234.000000);
+TextDrawAlignment(TDEditor_TD[1], 1);
+TextDrawColor(TDEditor_TD[1], -1);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+TextDrawSetOutline(TDEditor_TD[1], 0);
+TextDrawBackgroundColor(TDEditor_TD[1], 255);
+TextDrawFont(TDEditor_TD[1], 4);
+TextDrawSetProportional(TDEditor_TD[1], 0);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+
+TDEditor_TD[2] = TextDrawCreate(542.533386, 149.717956, "Hojin_Kim");
+TextDrawLetterSize(TDEditor_TD[2], 0.272666, 1.458962);
+TextDrawAlignment(TDEditor_TD[2], 1);
+TextDrawColor(TDEditor_TD[2], -1);
+TextDrawSetShadow(TDEditor_TD[2], 0);
+TextDrawSetOutline(TDEditor_TD[2], 0);
+TextDrawBackgroundColor(TDEditor_TD[2], 255);
+TextDrawFont(TDEditor_TD[2], 2);
+TextDrawSetProportional(TDEditor_TD[2], 1);
+TextDrawSetShadow(TDEditor_TD[2], 0);
+
+TDEditor_TD[3] = TextDrawCreate(542.533386, 161.618682, "00:47");
+TextDrawLetterSize(TDEditor_TD[3], 0.272666, 1.458962);
+TextDrawAlignment(TDEditor_TD[3], 1);
+TextDrawColor(TDEditor_TD[3], -1);
+TextDrawSetShadow(TDEditor_TD[3], 0);
+TextDrawSetOutline(TDEditor_TD[3], 0);
+TextDrawBackgroundColor(TDEditor_TD[3], 255);
+TextDrawFont(TDEditor_TD[3], 2);
+TextDrawSetProportional(TDEditor_TD[3], 1);
+TextDrawSetShadow(TDEditor_TD[3], 0);
+
+
+
+
+//Total textdraws exported: 4 (4 global textdraws / 0 player textdraws) ~ 18/1/2017 ~ 1:44:36
+TDEditor V1.17 BY ADRI1

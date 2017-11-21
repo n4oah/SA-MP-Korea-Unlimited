@@ -1,0 +1,50 @@
+//Global TextDraws: 
+
+
+new Text:TDEditor_TD[3];
+
+InventoryTD[playerid][28] = TextDrawCreate(199.633499, 120.396232, "box");
+TextDrawLetterSize(InventoryTD[playerid][28], 0.000000, 1.333333);
+TextDrawTextSize(InventoryTD[playerid][28], 461.178070, -111.000000);
+TextDrawAlignment(InventoryTD[playerid][28], 1);
+TextDrawColor(InventoryTD[playerid][28], -1);
+TextDrawUseBox(InventoryTD[playerid][28], 1);
+TextDrawBoxColor(InventoryTD[playerid][28], 255);
+TextDrawSetShadow(InventoryTD[playerid][28], 0);
+TextDrawSetOutline(InventoryTD[playerid][28], 0);
+TextDrawBackgroundColor(InventoryTD[playerid][28], 255);
+TextDrawFont(InventoryTD[playerid][28], 1);
+TextDrawSetProportional(InventoryTD[playerid][28], 1);
+TextDrawSetShadow(InventoryTD[playerid][28], 0);
+
+InventoryTD[playerid][29] = TextDrawCreate(284.699920, 118.022209, "inventory");
+TextDrawLetterSize(InventoryTD[playerid][29], 0.400000, 1.600000);
+TextDrawAlignment(InventoryTD[playerid][29], 1);
+TextDrawColor(InventoryTD[playerid][29], -1);
+TextDrawSetShadow(InventoryTD[playerid][29], 0);
+TextDrawSetOutline(InventoryTD[playerid][29], 0);
+TextDrawBackgroundColor(InventoryTD[playerid][29], 255);
+TextDrawFont(InventoryTD[playerid][29], 2);
+TextDrawSetProportional(InventoryTD[playerid][29], 1);
+TextDrawSetShadow(InventoryTD[playerid][29], 0);
+
+InventoryTD[playerid][30] = TextDrawCreate(450.266845, 118.307357, "X");
+TextDrawLetterSize(InventoryTD[playerid][30], 0.400000, 1.600000);
+TextDrawTextSize(InventoryTD[playerid][30], 460.200012, 10.000000);
+TextDrawAlignment(InventoryTD[playerid][30], 1);
+TextDrawColor(InventoryTD[playerid][30], -1);
+TextDrawUseBox(InventoryTD[playerid][30], 1);
+TextDrawBoxColor(InventoryTD[playerid][30], 0);
+TextDrawSetShadow(InventoryTD[playerid][30], 0);
+TextDrawSetOutline(InventoryTD[playerid][30], 0);
+TextDrawBackgroundColor(InventoryTD[playerid][30], 255);
+TextDrawFont(InventoryTD[playerid][30], 2);
+TextDrawSetProportional(InventoryTD[playerid][30], 1);
+TextDrawSetShadow(InventoryTD[playerid][30], 0);
+TextDrawSetSelectable(InventoryTD[playerid][30], true);
+
+
+
+
+//Total textdraws exported: 3 (3 global textdraws / 0 player textdraws) ~ 7/1/2017 ~ 22:17:59
+TDEditor V1.17 BY ADRI1

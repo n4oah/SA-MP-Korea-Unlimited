@@ -1,0 +1,35 @@
+//Global TextDraws: 
+
+
+new Text:TDEditor_TD[2];
+
+TDEditor_TD[0] = TextDrawCreate(308.333251, 120.725936, "asdfgasdf");
+TextDrawLetterSize(TDEditor_TD[0], 0.296999, 1.201777);
+TextDrawAlignment(TDEditor_TD[0], 1);
+TextDrawColor(TDEditor_TD[0], -1);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+TextDrawSetOutline(TDEditor_TD[0], 0);
+TextDrawBackgroundColor(TDEditor_TD[0], 255);
+TextDrawFont(TDEditor_TD[0], 1);
+TextDrawSetProportional(TDEditor_TD[0], 1);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+
+TDEditor_TD[1] = TextDrawCreate(263.666625, 135.474014, "box");
+TextDrawLetterSize(TDEditor_TD[1], -0.022000, 19.376283);
+TextDrawTextSize(TDEditor_TD[1], 325.000000, 0.000000);
+TextDrawAlignment(TDEditor_TD[1], 1);
+TextDrawColor(TDEditor_TD[1], -1);
+TextDrawUseBox(TDEditor_TD[1], 1);
+TextDrawBoxColor(TDEditor_TD[1], 255);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+TextDrawSetOutline(TDEditor_TD[1], 0);
+TextDrawBackgroundColor(TDEditor_TD[1], 255);
+TextDrawFont(TDEditor_TD[1], 1);
+TextDrawSetProportional(TDEditor_TD[1], 1);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+
+
+
+
+//Total textdraws exported: 2 (2 global textdraws / 0 player textdraws) ~ 5/1/2017 ~ 22:12:48
+TDEditor V1.17 BY ADRI1

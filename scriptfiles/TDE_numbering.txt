@@ -1,0 +1,39 @@
+//Global TextDraws: 
+
+
+new Text:TDEditor_TD[1];
+
+InventoryTD[playerid][31] = TextDrawCreate(365.266662, 160.718582, "0");
+InventoryTD[playerid][31] = TextDrawCreate(396.465393, 160.718582, "0");
+InventoryTD[playerid][31] = TextDrawCreate(427.664123, 160.718582, "0");
+InventoryTD[playerid][31] = TextDrawCreate(459.162842, 160.718582, "0");
+InventoryTD[playerid][31] = TextDrawCreate(365.266662, 192.218902, "0");
+InventoryTD[playerid][31] = TextDrawCreate(396.465393, 192.218902, "0");
+InventoryTD[playerid][31] = TextDrawCreate(427.664123, 192.218902, "0");
+InventoryTD[playerid][31] = TextDrawCreate(459.162842, 192.218902, "0");
+InventoryTD[playerid][31] = TextDrawCreate(365.266662, 223.719222, "0");
+InventoryTD[playerid][31] = TextDrawCreate(396.465393, 223.719222, "0");
+InventoryTD[playerid][31] = TextDrawCreate(427.664123, 223.719222, "0");
+InventoryTD[playerid][31] = TextDrawCreate(459.162842, 223.719222, "0");
+InventoryTD[playerid][31] = TextDrawCreate(365.266662, 255.219542, "0");
+InventoryTD[playerid][31] = TextDrawCreate(396.465393, 255.219542, "0");
+InventoryTD[playerid][31] = TextDrawCreate(427.664123, 255.219542, "0");
+InventoryTD[playerid][31] = TextDrawCreate(459.162842, 255.219542, "0");
+InventoryTD[playerid][31] = TextDrawCreate(365.266662, 286.719862, "0");
+InventoryTD[playerid][31] = TextDrawCreate(396.465393, 286.719862, "0");
+InventoryTD[playerid][31] = TextDrawCreate(427.664123, 286.719862, "0");
+InventoryTD[playerid][31] = TextDrawCreate(459.162842, 286.719862, "0");
+
+
+TextDrawLetterSize(InventoryTD[playerid][31], 0.219333, 0.939037);
+TextDrawAlignment(InventoryTD[playerid][31], 3);
+TextDrawColor(InventoryTD[playerid][31], -1);
+TextDrawSetShadow(InventoryTD[playerid][31], 0);
+TextDrawSetOutline(InventoryTD[playerid][31], 0);
+TextDrawBackgroundColor(InventoryTD[playerid][31], 255);
+TextDrawFont(InventoryTD[playerid][31], 1);
+TextDrawSetProportional(InventoryTD[playerid][31], 1);
+TextDrawSetShadow(InventoryTD[playerid][31], 0);
+
+//Total textdraws exported: 1 (1 global textdraws / 0 player textdraws) ~ 8/1/2017 ~ 0:31:0
+TDEditor V1.17 BY ADRI1

@@ -1,0 +1,215 @@
+//Global TextDraws: 
+
+
+new Text:TDEditor_TD[16];
+
+TDEditor_TD[0] = TextDrawCreate(528.602966, 106.440582, "phone:main");
+TextDrawLetterSize(TDEditor_TD[0], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[0], 103.000000, 234.000000);
+TextDrawAlignment(TDEditor_TD[0], 1);
+TextDrawColor(TDEditor_TD[0], -1);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+TextDrawSetOutline(TDEditor_TD[0], 0);
+TextDrawBackgroundColor(TDEditor_TD[0], 255);
+TextDrawFont(TDEditor_TD[0], 4);
+TextDrawSetProportional(TDEditor_TD[0], 0);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+
+TDEditor_TD[1] = TextDrawCreate(534.000000, 180.774078, "phone:number_1");
+TextDrawLetterSize(TDEditor_TD[1], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[1], 30.000000, 28.000000);
+TextDrawAlignment(TDEditor_TD[1], 1);
+TextDrawColor(TDEditor_TD[1], -1);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+TextDrawSetOutline(TDEditor_TD[1], 0);
+TextDrawBackgroundColor(TDEditor_TD[1], 255);
+TextDrawFont(TDEditor_TD[1], 4);
+TextDrawSetProportional(TDEditor_TD[1], 0);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+TextDrawSetSelectable(TDEditor_TD[1], true);
+
+TDEditor_TD[2] = TextDrawCreate(565.092407, 180.774078, "phone:number_2");
+TextDrawLetterSize(TDEditor_TD[2], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[2], 30.000000, 28.000000);
+TextDrawAlignment(TDEditor_TD[2], 1);
+TextDrawColor(TDEditor_TD[2], -1);
+TextDrawSetShadow(TDEditor_TD[2], 0);
+TextDrawSetOutline(TDEditor_TD[2], 0);
+TextDrawBackgroundColor(TDEditor_TD[2], 255);
+TextDrawFont(TDEditor_TD[2], 4);
+TextDrawSetProportional(TDEditor_TD[2], 0);
+TextDrawSetShadow(TDEditor_TD[2], 0);
+TextDrawSetSelectable(TDEditor_TD[2], true);
+
+TDEditor_TD[3] = TextDrawCreate(596.284790, 180.674072, "phone:number_3");
+TextDrawLetterSize(TDEditor_TD[3], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[3], 30.000000, 28.000000);
+TextDrawAlignment(TDEditor_TD[3], 1);
+TextDrawColor(TDEditor_TD[3], -1);
+TextDrawSetShadow(TDEditor_TD[3], 0);
+TextDrawSetOutline(TDEditor_TD[3], 0);
+TextDrawBackgroundColor(TDEditor_TD[3], 255);
+TextDrawFont(TDEditor_TD[3], 4);
+TextDrawSetProportional(TDEditor_TD[3], 0);
+TextDrawSetShadow(TDEditor_TD[3], 0);
+TextDrawSetSelectable(TDEditor_TD[3], true);
+
+TDEditor_TD[4] = TextDrawCreate(534.000000, 210.375885, "phone:number_4");
+TextDrawLetterSize(TDEditor_TD[4], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[4], 30.000000, 28.000000);
+TextDrawAlignment(TDEditor_TD[4], 1);
+TextDrawColor(TDEditor_TD[4], -1);
+TextDrawSetShadow(TDEditor_TD[4], 0);
+TextDrawSetOutline(TDEditor_TD[4], 0);
+TextDrawBackgroundColor(TDEditor_TD[4], 255);
+TextDrawFont(TDEditor_TD[4], 4);
+TextDrawSetProportional(TDEditor_TD[4], 0);
+TextDrawSetShadow(TDEditor_TD[4], 0);
+TextDrawSetSelectable(TDEditor_TD[4], true);
+
+TDEditor_TD[5] = TextDrawCreate(565.192138, 210.390670, "phone:number_5");
+TextDrawLetterSize(TDEditor_TD[5], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[5], 30.000000, 28.000000);
+TextDrawAlignment(TDEditor_TD[5], 1);
+TextDrawColor(TDEditor_TD[5], -1);
+TextDrawSetShadow(TDEditor_TD[5], 0);
+TextDrawSetOutline(TDEditor_TD[5], 0);
+TextDrawBackgroundColor(TDEditor_TD[5], 255);
+TextDrawFont(TDEditor_TD[5], 4);
+TextDrawSetProportional(TDEditor_TD[5], 0);
+TextDrawSetShadow(TDEditor_TD[5], 0);
+TextDrawSetSelectable(TDEditor_TD[5], true);
+
+TDEditor_TD[6] = TextDrawCreate(596.284790, 210.275878, "phone:number_6");
+TextDrawLetterSize(TDEditor_TD[6], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[6], 30.000000, 28.000000);
+TextDrawAlignment(TDEditor_TD[6], 1);
+TextDrawColor(TDEditor_TD[6], -1);
+TextDrawSetShadow(TDEditor_TD[6], 0);
+TextDrawSetOutline(TDEditor_TD[6], 0);
+TextDrawBackgroundColor(TDEditor_TD[6], 255);
+TextDrawFont(TDEditor_TD[6], 4);
+TextDrawSetProportional(TDEditor_TD[6], 0);
+TextDrawSetShadow(TDEditor_TD[6], 0);
+TextDrawSetSelectable(TDEditor_TD[6], true);
+
+TDEditor_TD[7] = TextDrawCreate(534.000000, 239.977691, "phone:number_7");
+TextDrawLetterSize(TDEditor_TD[7], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[7], 30.000000, 28.000000);
+TextDrawAlignment(TDEditor_TD[7], 1);
+TextDrawColor(TDEditor_TD[7], -1);
+TextDrawSetShadow(TDEditor_TD[7], 0);
+TextDrawSetOutline(TDEditor_TD[7], 0);
+TextDrawBackgroundColor(TDEditor_TD[7], 255);
+TextDrawFont(TDEditor_TD[7], 4);
+TextDrawSetProportional(TDEditor_TD[7], 0);
+TextDrawSetShadow(TDEditor_TD[7], 0);
+TextDrawSetSelectable(TDEditor_TD[7], true);
+
+TDEditor_TD[8] = TextDrawCreate(565.192138, 239.892471, "phone:number_8");
+TextDrawLetterSize(TDEditor_TD[8], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[8], 30.000000, 27.939998);
+TextDrawAlignment(TDEditor_TD[8], 1);
+TextDrawColor(TDEditor_TD[8], -1);
+TextDrawSetShadow(TDEditor_TD[8], 0);
+TextDrawSetOutline(TDEditor_TD[8], 0);
+TextDrawBackgroundColor(TDEditor_TD[8], 255);
+TextDrawFont(TDEditor_TD[8], 4);
+TextDrawSetProportional(TDEditor_TD[8], 0);
+TextDrawSetShadow(TDEditor_TD[8], 0);
+TextDrawSetSelectable(TDEditor_TD[8], true);
+
+TDEditor_TD[9] = TextDrawCreate(596.284790, 239.777679, "phone:number_9");
+TextDrawLetterSize(TDEditor_TD[9], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[9], 30.000000, 27.949998);
+TextDrawAlignment(TDEditor_TD[9], 1);
+TextDrawColor(TDEditor_TD[9], -1);
+TextDrawSetShadow(TDEditor_TD[9], 0);
+TextDrawSetOutline(TDEditor_TD[9], 0);
+TextDrawBackgroundColor(TDEditor_TD[9], 255);
+TextDrawFont(TDEditor_TD[9], 4);
+TextDrawSetProportional(TDEditor_TD[9], 0);
+TextDrawSetShadow(TDEditor_TD[9], 0);
+TextDrawSetSelectable(TDEditor_TD[9], true);
+
+TDEditor_TD[10] = TextDrawCreate(534.000000, 269.579498, "phone:number_star");
+TextDrawLetterSize(TDEditor_TD[10], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[10], 30.000000, 28.030000);
+TextDrawAlignment(TDEditor_TD[10], 1);
+TextDrawColor(TDEditor_TD[10], -1);
+TextDrawSetShadow(TDEditor_TD[10], 0);
+TextDrawSetOutline(TDEditor_TD[10], 0);
+TextDrawBackgroundColor(TDEditor_TD[10], 255);
+TextDrawFont(TDEditor_TD[10], 4);
+TextDrawSetProportional(TDEditor_TD[10], 0);
+TextDrawSetShadow(TDEditor_TD[10], 0);
+TextDrawSetSelectable(TDEditor_TD[10], true);
+
+TDEditor_TD[11] = TextDrawCreate(565.192138, 269.494262, "phone:number_0");
+TextDrawLetterSize(TDEditor_TD[11], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[11], 30.000000, 27.939998);
+TextDrawAlignment(TDEditor_TD[11], 1);
+TextDrawColor(TDEditor_TD[11], -1);
+TextDrawSetShadow(TDEditor_TD[11], 0);
+TextDrawSetOutline(TDEditor_TD[11], 0);
+TextDrawBackgroundColor(TDEditor_TD[11], 255);
+TextDrawFont(TDEditor_TD[11], 4);
+TextDrawSetProportional(TDEditor_TD[11], 0);
+TextDrawSetShadow(TDEditor_TD[11], 0);
+TextDrawSetSelectable(TDEditor_TD[11], true);
+
+TDEditor_TD[12] = TextDrawCreate(596.284790, 269.379486, "phone:number_sharp");
+TextDrawLetterSize(TDEditor_TD[12], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[12], 30.000000, 27.909997);
+TextDrawAlignment(TDEditor_TD[12], 1);
+TextDrawColor(TDEditor_TD[12], -1);
+TextDrawSetShadow(TDEditor_TD[12], 0);
+TextDrawSetOutline(TDEditor_TD[12], 0);
+TextDrawBackgroundColor(TDEditor_TD[12], 255);
+TextDrawFont(TDEditor_TD[12], 4);
+TextDrawSetProportional(TDEditor_TD[12], 0);
+TextDrawSetShadow(TDEditor_TD[12], 0);
+TextDrawSetSelectable(TDEditor_TD[12], true);
+
+TDEditor_TD[13] = TextDrawCreate(557.699523, 300.185089, "phone:call_button");
+TextDrawLetterSize(TDEditor_TD[13], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[13], 44.000000, 14.000000);
+TextDrawAlignment(TDEditor_TD[13], 1);
+TextDrawColor(TDEditor_TD[13], -1);
+TextDrawSetShadow(TDEditor_TD[13], 0);
+TextDrawSetOutline(TDEditor_TD[13], 0);
+TextDrawBackgroundColor(TDEditor_TD[13], 255);
+TextDrawFont(TDEditor_TD[13], 4);
+TextDrawSetProportional(TDEditor_TD[13], 0);
+TextDrawSetShadow(TDEditor_TD[13], 0);
+TextDrawSetSelectable(TDEditor_TD[13], true);
+
+TDEditor_TD[14] = TextDrawCreate(609.565429, 145.044448, "phone:delete_button");
+TextDrawLetterSize(TDEditor_TD[14], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[14], 15.000000, 10.000000);
+TextDrawAlignment(TDEditor_TD[14], 1);
+TextDrawColor(TDEditor_TD[14], -1);
+TextDrawSetShadow(TDEditor_TD[14], 0);
+TextDrawSetOutline(TDEditor_TD[14], 0);
+TextDrawBackgroundColor(TDEditor_TD[14], 255);
+TextDrawFont(TDEditor_TD[14], 4);
+TextDrawSetProportional(TDEditor_TD[14], 0);
+TextDrawSetShadow(TDEditor_TD[14], 0);
+TextDrawSetSelectable(TDEditor_TD[14], true);
+
+TDEditor_TD[15] = TextDrawCreate(532.800170, 143.355499, "15795");
+TextDrawLetterSize(TDEditor_TD[15], 0.356000, 1.509999);
+TextDrawAlignment(TDEditor_TD[15], 1);
+TextDrawColor(TDEditor_TD[15], -1);
+TextDrawSetShadow(TDEditor_TD[15], 0);
+TextDrawSetOutline(TDEditor_TD[15], 0);
+TextDrawBackgroundColor(TDEditor_TD[15], 255);
+TextDrawFont(TDEditor_TD[15], 1);
+TextDrawSetProportional(TDEditor_TD[15], 1);
+TextDrawSetShadow(TDEditor_TD[15], 0);
+
+
+
+
+//Total textdraws exported: 16 (16 global textdraws / 0 player textdraws) ~ 18/1/2017 ~ 0:6:26
+TDEditor V1.17 BY ADRI1
