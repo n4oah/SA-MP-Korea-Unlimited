@@ -1,7 +1,7 @@
 # Mode description
 * The Unlimited 백지모드
 *
-* 모드 제작자 : 김호진
+* 모드 개발자 : 김호진
 * 오브젝트 및 커스텀 : 테슬라
 *
 * MySQL ver R41-2를 사용하여 더욱 빠른 데이터베이스 구축
@@ -24,5 +24,5 @@
 * DB설계를 SMS기능 다 만든 뒤에 하는 바람에 SMS 테이블은 컬럼이 최적화가 안 되있음
 
 # Requirements
-a_samp 0.3.7ver
-MySQL/R41-2
+* a_samp 0.3.7ver
+* MySQL/R41-2
